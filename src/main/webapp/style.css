@@ -1,0 +1,119 @@
+@charset "EUC-KR";
+/* * {
+	margin:0 auto;
+}
+*/
+h1{
+	margin:0;
+	padding: 20px 0 10px;
+} 
+h1 a{
+	color: white;
+	text-decoration:none;
+}
+body{
+	margin:0;
+	padding: 0;
+/* 	background-image: url("C:\Users\sksrp\Downloads\books-ge140d681b_1920.jpg");
+ */
+ }
+header{
+	background: #525da0;
+	color: white;
+}
+menu{
+	/* background: darkgrey; */
+	margin:0;
+	padding:0;
+}
+section{
+	color:#333;
+	margin:0 200px 100px ;
+	padding: 30px;
+	border: 1px solid #e1e1e1;
+	border-radius: 5px;
+	/* max-width:1000px;  */
+}
+.nav1{
+	
+	background: #525da0;
+/* 	margin:0 200px; */
+	
+}
+table{
+	margin:0;
+	border-color: #fff; 
+
+}
+.nav{
+	width:100%;
+	padding: 0 200px;
+	text-align: center;
+}
+
+.nav a{
+	text-decoration:none;
+	color: white;
+	display: block;
+	padding: 20px 0 0 0;
+	font-weight:bold;
+	
+}
+.nav td	{
+	width:150px;
+	height:30px;
+	padding: 0px 10px 0 10px;
+	margin: 10 0 0 0;
+	
+}
+.nav td:hover{
+	background:#64689f;
+}
+.allignR2{
+	padding: 30px 0;
+}
+.allignR{
+	text-align: right;
+	padding:20px 20px 0;
+}
+.box{
+	padding: 0 100px;
+	text-align: left;
+}
+h2 {
+	margin: 0 0 30px 0;
+}
+section p{
+	text-align: center;
+}
+.loginForm{
+	margin: 30px auto;
+	width:300px;
+	border: 1px solid #e1e1e1;
+    border-radius: 5px;
+	padding: 30px;
+}
+ th, td{
+	padding:10px;
+}
+section a{
+	text-decoration:none;
+	color:#525da0;
+	font-weight:bold;
+}
+section a:hover{
+	font-weight:bold;
+	color: #333;
+}
+input{
+	border:1px solid #ddd;
+	padding: 5px;
+}
+footer h3{
+	color: #333;
+	font-weight:normal;
+	font-size: 10px;
+	padding:30px 0 0 0;
+	margin:60px 30px 30px;
+	border-top: 1px solid #ddd;
+}
